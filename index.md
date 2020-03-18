@@ -28,6 +28,7 @@ Characteristics:
 - Equipped automatic film roll chaining which can be achieve non-stop replacement of packaging film to improve production efficiency.
 - Tool-less belt exchange for fast and easy cleaning. Removable crumb tray under the belt for easy cleaning and maintanence.
 - Automatic material tracking system, package rate 100% no empty space.
+
 ### JY-L600
 ![Advanced full servo touch screen control system, Simple transmission structure,Low maintenance and low noise.](https://66.media.tumblr.com/5f7d4314e82ddfee9cceeca3144ee71d/12df45d3d496711e-74/s1280x1920/83ae83db52558a9bbf6d1c6d5152cb03f8b3a295.jpg)
 
@@ -41,6 +42,7 @@ Characteristics
 - With paper splicer system and it can change the film roller automatically without stop, which improves the working efficiency.
 - The feeding belts don’t need tools to release or install. There is wastage plate under the belts and it is easy for maintenance and clean and it saves time and labor.
 - With product-inspecting system and it helps to achieves the no-empty package. The packing rate is 100%.
+
 ### JY-ZB400
 ![semi-automatic,simple transmission structure,Low failure rate, low noise and smooth operation.](https://66.media.tumblr.com/de5b5fb2c7d03c2364850c44ca0f495b/12df45d3d496711e-88/s1280x1920/18c58c0373323b8181820ad3bd51f8810aded170.jpg)
 >Application of Machine
@@ -49,6 +51,7 @@ Characteristics:
 - Triple servo touch screen control system, Simple transmission structure,Low failure rate, low noise and smooth operation.
 - simply construction, easy maintenance
 - High speed,Durable structure.
+
 ### JY-ZB-900
 ![Suitable for packing candies as well as other solid products,with super feeding plate, feeding better and less empty package.](https://66.media.tumblr.com/5f7d4314e82ddfee9cceeca3144ee71d/12df45d3d496711e-74/s1280x1920/83ae83db52558a9bbf6d1c6d5152cb03f8b3a295.jpg)
 >Application of Machine
